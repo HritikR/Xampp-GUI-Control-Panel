@@ -18,6 +18,6 @@ Install GUI Panel by copying its source files into htdocs folder.
 Change Database Credentials Inside /include/dbconnect.php
 ```
 
-Coded with ❤️ By [@cyb3rpir4te](https://github.com/cyb3rpir4te)
+Coded with ❤️ By [@HritikR](https://github.com/HritikR)
 
 ![](https://i.imgur.com/TERD0Mx.png)
